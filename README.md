@@ -41,6 +41,17 @@ An end-to-end analytics solution that identifies inefficiencies in organic food 
 - Supabase PostgreSQL database
 - Quadratic account (free tier available)
 
+
+🖥️ How to Open .grid File
+
+1. Go to [Quadratic](https://quadratic.to)
+2. Sign in or create a free account
+3. Upload using the ➕ Upload button
+4. Enjoy full interactivity:
+   - ✏️ Modify SQL queries
+   - 🤖 Ask AI questions
+   - 📊 Create visuals
+
 ### Installation Steps
 
 1. **Clone this repository**
