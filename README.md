@@ -41,8 +41,14 @@ An end-to-end analytics solution that identifies inefficiencies in organic food 
 - Supabase PostgreSQL database
 - Quadratic account (free tier available)
 
+- 
+## 📂 File Included
 
-🖥️ How to Open .grid File
+- `AtliQ Mart Supply Chain (1).grid`: Quadratic project file containing the analysis, KPIs, visualizations, and SQL queries.
+
+---
+
+## 🖥️ How to Open .grid File
 
 1. Go to [Quadratic](https://quadratic.to)
 2. Sign in or create a free account
