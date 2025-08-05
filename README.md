@@ -41,7 +41,6 @@ An end-to-end analytics solution that identifies inefficiencies in organic food 
 - Supabase PostgreSQL database
 - Quadratic account (free tier available)
 
-- 
 ## 📂 File Included
 
 - `AtliQ Mart Supply Chain (1).grid`: Quadratic project file containing the analysis, KPIs, visualizations, and SQL queries.
@@ -79,19 +78,19 @@ An end-to-end analytics solution that identifies inefficiencies in organic food 
 ## 📊 Sample Visualizations
 
 1. **Top 5 Customers: OTIF Performance**  
-   ![Top Customers OTIF](dashboard.png)  
+   ![dashboard.png]  
    *Identifies key accounts needing delivery improvement*
 
 2. **Product Fill Rate Analysis**  
-   ![Product Fill Rates](dashboard.png)  
+   ![dashboard.png]  
    *Organic spices show only 79% fill rate compared to 94% for packaged foods*
 
 3. **Monthly Trend Analysis**  
-   ![Monthly Trends](dashboard.png)  
+   ![dashboard.png]  
    *Q3 shows 22% more delays than Q2, correlating with monsoon season in Gujarat*
 
 4. **Regional OTIF Performance**  
-   ![Regional OTIF](docs/regional_otif.png)  
+   ![dashboard.png]
    *US operations maintain 15% higher OTIF than India (88% vs 73%)*
 
 [▶ View interactive dashboard in Quadratic](#) *(add direct link if available)*
