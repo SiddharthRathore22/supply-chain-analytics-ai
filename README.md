@@ -76,29 +76,25 @@ An end-to-end analytics solution that identifies inefficiencies in organic food 
    - Connect to your Supabase database
    - Refresh data connections
 
-## 📂 Project Structure
+## 📊 Sample Visualizations
 
-```
-supply-chain-ai/
-├── data/                   # Sample datasets
-│   ├── india_orders.csv
-│   └── usa_orders.csv
-├── workflows/              # n8n automation files
-│   └── email_to_postgres.json
-├── quadratic/              # AI analysis files
-│   └── supply_chain_analysis.qtu
-├── sql/                    # Database scripts
-│   ├── schema_setup.sql
-│   └── kpi_queries.sql
-└── docs/                   # Documentation
-    ├── architecture.png
-    └── exercise_solutions.pdf
-```
+1. **Top 5 Customers: OTIF Performance**  
+   ![Top Customers OTIF](dashboard.png)  
+   *Identifies key accounts needing delivery improvement*
 
-## 🖼️ Sample Visualizations
+2. **Product Fill Rate Analysis**  
+   ![Product Fill Rates](dashboard.png)  
+   *Organic spices show only 79% fill rate compared to 94% for packaged foods*
 
-![OTIF Performance by Region](docs/otif_by_region.png)
-*On-Time In-Full metrics show 15% better performance in US market*
+3. **Monthly Trend Analysis**  
+   ![Monthly Trends](dashboard.png)  
+   *Q3 shows 22% more delays than Q2, correlating with monsoon season in Gujarat*
+
+4. **Regional OTIF Performance**  
+   ![Regional OTIF](docs/regional_otif.png)  
+   *US operations maintain 15% higher OTIF than India (88% vs 73%)*
+
+[▶ View interactive dashboard in Quadratic](#) *(add direct link if available)*
 
 ![Top Customers Analysis](docs/top_customers.png)
 *Revenue impact analysis for customers with delivery issues*
