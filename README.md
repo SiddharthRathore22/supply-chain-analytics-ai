@@ -93,10 +93,6 @@ An end-to-end analytics solution that identifies inefficiencies in organic food 
    ![dashboard.png]
    *US operations maintain 15% higher OTIF than India (88% vs 73%)*
 
-[▶ View interactive dashboard in Quadratic](#) *(add direct link if available)*
-
-![Top Customers Analysis](docs/top_customers.png)
-*Revenue impact analysis for customers with delivery issues*
 
 ## 💡 Key Learnings
 
